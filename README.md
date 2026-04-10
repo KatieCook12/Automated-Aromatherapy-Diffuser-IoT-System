@@ -69,6 +69,18 @@ Due to voltage limitations (3.3V vs 5V), actuators were powered via Arduino whil
 
 ---
 
+## 📝 Schematic
+
+---
+
+## 💻 Node-RED Dashboard
+
+---
+
+## 🟥 Node-RED
+
+---
+
 ## 🔄 How It Works  
 
 1. Sensors collect environmental data  
