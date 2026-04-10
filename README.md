@@ -69,15 +69,29 @@ Due to voltage limitations (3.3V vs 5V), actuators were powered via Arduino whil
 
 ---
 
+## 📷 Final Design
+
+<img src="Images/Final-Device.jpg" width="600">
+
+---
+
 ## 📝 Schematic
+
+<img src="Images/Schematic.jpg" width="600">
+<img src="Images/Schematic-1.jpg" width="600">
 
 ---
 
 ## 💻 Node-RED Dashboard
 
+<img src="Images/Node-Red-1.png" width="600">
+
 ---
 
 ## 🟥 Node-RED
+
+<img src="Images/raspberrypi.png" width="600">
+<img src="Images/Node-Red-2.png" width="600">
 
 ---
 
